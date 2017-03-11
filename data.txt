@@ -1,0 +1,32 @@
+{
+	wsc.cities = 
+            [
+                {
+                    "name": "Amarillo",
+                    "url_name": "Amarillo",
+                    "state": "TX",
+                    "lat": 0,
+                    "lon": 0
+                }, 
+                {
+                    name: "Anchorage",
+                    url_name: "Anchorage",
+                    state: "AK",
+                    lat: 0,
+                    lon: 0
+                },
+                {
+                    name: "Denver",
+                    url_name: "Denver",
+                    state: "CO",
+                    lat: 0,
+                    lon: 0
+                },
+				{
+                    name: "Charlotte",
+                    url_name: "Charlotte",
+                    state: "NC",
+                    lat: 0,
+                    lon: 0
+                }
+            ]}
